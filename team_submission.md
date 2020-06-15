@@ -16,4 +16,4 @@ amber.yang@mail.utoronto.ca
 
 A slide deck was created, and is available in `asa.pdf`.
 
-A video was created, and is available in `video.mp4`.
+A video was created, and is available in `video.mov`.
