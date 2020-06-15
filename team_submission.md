@@ -14,6 +14,6 @@ Yuxin Yang:
 1004834673, 
 amber.yang@mail.utoronto.ca
 
-A slide deck was created, and is available in  .
+A slide deck was created, and is available in `asa.pdf`.
 
-A video was created, and is available in .
+A video was created, and is available in `video.mov`.
